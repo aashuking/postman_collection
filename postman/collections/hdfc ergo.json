@@ -21,7 +21,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{  \n  \"AgentCode\": \"PBZ001\",\n   \"MasterData\":\"State\",\n    \"test\":\"aashu\"\n}",
+							"raw": "{  \n  \"AgentCode\": \"PBZ001\",\n   \"MasterData\":\"State\",\n    \"test\":\"aashu\",\n    \"test2\":\"naresh\"\n}",
 							"options": {
 								"raw": {
 									"language": "json"
